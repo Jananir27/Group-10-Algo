@@ -1,0 +1,15 @@
+language,algorithm,n,best_ms
+C,mergesort,1000,0.027
+C,quicksort,1000,0.016
+C,mergesort,2000,0.068
+C,quicksort,2000,0.048
+C,mergesort,5000,0.203
+C,quicksort,5000,0.150
+C,mergesort,10000,0.452
+C,quicksort,10000,0.331
+C,mergesort,20000,0.980
+C,quicksort,20000,0.719
+C,mergesort,50000,2.713
+C,quicksort,50000,2.007
+C,mergesort,100000,5.785
+C,quicksort,100000,4.195

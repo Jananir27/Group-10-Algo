@@ -1,0 +1,15 @@
+language,algorithm,n,best_ms
+Python,mergesort,1000,0.693
+Python,quicksort,1000,0.547
+Python,mergesort,2000,1.538
+Python,quicksort,2000,1.162
+Python,mergesort,5000,4.146
+Python,quicksort,5000,3.177
+Python,mergesort,10000,8.846
+Python,quicksort,10000,6.676
+Python,mergesort,20000,19.095
+Python,quicksort,20000,15.054
+Python,mergesort,50000,53.706
+Python,quicksort,50000,38.835
+Python,mergesort,100000,113.774
+Python,quicksort,100000,82.250
